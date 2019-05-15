@@ -1,0 +1,7 @@
+.nav {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+    background-attachment: red;
+}
+
