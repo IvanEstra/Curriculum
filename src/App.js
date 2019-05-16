@@ -1,13 +1,20 @@
 import React from 'react'; 
 import Home from './Views/Home';
+import Navbar from  './Components/Vistas/Navbar';
+import Datos from './Components/Vistas/Datos';
+import DatosEsco from './Components/Vistas/DatosEsco';
 
 
 function App() {
   return (
     
     <div>
-      <h1><center>Programación</center></h1>
+      
+      
       <Home/>
+      <Navbar/>
+      <Datos/>
+      <DatosEsco/>
     </div>
     
   );

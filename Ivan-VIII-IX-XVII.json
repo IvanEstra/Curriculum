@@ -5623,16 +5623,3389 @@
             "zone": "Rural"
         },
         /*SAN BARTOLO TUTOTEPEC*/
-
-
-        /*Villas del Alamo*/
         {
-            "cp": "43412",
-            "township": "El Chamizal",
+            "cp": "43440",
+            "township": "La Laguna",
+            "townshipType": "Colonia",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43440",
+            "township": "La Esmeralda",
+            "townshipType": "Colonia",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43440",
+            "township": "Totoapan",
+            "townshipType": "Colonia",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43440",
+            "township": "Valle Verde",
+            "townshipType": "Colonia",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43440",
+            "township": "Industrial",
+            "townshipType": "Colonia",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43440",
+            "township": "Los Reyes",
+            "townshipType": "Colonia",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43440",
+            "township": "La Magdalena",
+            "townshipType": "Colonia",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43440",
+            "township": "La Cumbre de la Campana",
+            "townshipType": "Colonia",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43440",
+            "township": "San Bartolo Tutotepec",
+            "townshipType": "Pueblo",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43442",
+            "township": "Las Juntas",
             "townshipType": "Ranchería",
-            "municipality": "Villas del Alamo",
+            "municipality": "San Bartolo Tutotepec",
             "state": "Hidalgo",
             "zone": "Rural"
         },
+        {
+            "cp": "43442",
+            "township": "Buena Vista",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43442",
+            "township": "El Zopilote",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43442",
+            "township": "Calintla",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43443",
+            "township": "El Lindero Chico",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43443",
+            "township": "El Mavodo",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43443",
+            "township": "Media Cuesta",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43443",
+            "township": "El Candeje",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43443",
+            "township": "El Encinal",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43443",
+            "township": "Santiago",
+            "townshipType": "Pueblo",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43443",
+            "township": "Río Chiquito",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43443",
+            "township": "Los Manantiales",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43443",
+            "township": "San Miguel",
+            "townshipType": "Pueblo",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43443",
+            "township": "La Huahua",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43443",
+            "township": "El Pedregal",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43443",
+            "township": "Pie del Cerro",
+            "townshipType": "Pueblo",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43443",
+            "township": "Piedra Ancha",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43443",
+            "township": "La Campana",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "La Ventilla",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "El Jovión",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "El Progreso",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "Tenantitlán",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "El Dónimo",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "Medio Monte",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "La Flor de Santiago (La FLor)",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "Piedra BLanca",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "Pueblo Nuevo",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "El Nandho",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "La Mesa",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "El Mundhó",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "El Rincón",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "Cerro Macho",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "Chicamole",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "Huasquilla",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43444",
+            "township": "El Hongo",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43445",
+            "township": "El Paraíso de Tierra Fuerte",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43445",
+            "township": "La Loma del Cerro Verde",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43445",
+            "township": "San Jerónimo",
+            "townshipType": "Pueblo",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43445",
+            "township": "Llano Grande",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43445",
+            "township": "La Cerca",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43445",
+            "township": "Cerro Verde",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43445",
+            "township": "Anaya",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43445",
+            "township": "El Jicote",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43446",
+            "township": "La Segunda Ranchería",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+
+        {
+            "cp": "43446",
+            "township": "Diez Cerros",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43446",
+            "township": "El Fresno",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43446",
+            "township": "Camarones",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43446",
+            "township": "El Lindero de San Mateo",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43446",
+            "township": "Piedras Negras",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43446",
+            "township": "Santiaguito",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43446",
+            "township": "Cerro Negro",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43446",
+            "township": "El Denxe",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43446",
+            "township": "San Mateo",
+            "townshipType": "Pueblo",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43446",
+            "township": "San Gabriel",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43446",
+            "township": "Poza Larga",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43447",
+            "township": "Xuchitlán",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43447",
+            "township": "Monte Grande",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43447",
+            "township": "La Venta",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43447",
+            "township": "El Ñundo",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43447",
+            "township": "Los Planes",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43447",
+            "township": "Tutotepec",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43447",
+            "township": "Loma Larga",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43447",
+            "township": "Juntas del Río",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43447",
+            "township": "Tierra Fuerte",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43447",
+            "township": "El Mirador",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43447",
+            "township": "El Mahuaquite",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43448",
+            "township": "La Cumbre de Muridores",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43448",
+            "township": "El Banco",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43448",
+            "township": "Salto del Agua",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43448",
+            "township": "El Tigrillo",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43448",
+            "township": "Rincón de Cerro Macho",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43448",
+            "township": "Cueva Ahumada",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43449",
+            "township": "El Naranjal",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43449",
+            "township": "Pie del Cerro",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43449",
+            "township": "San Juan de las Flores",
+            "townshipType": "Pueblo",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43449",
+            "township": "El Seis",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43449",
+            "township": "Agua Escondida",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43449",
+            "township": "Los Álamos",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43449",
+            "township": "Santa Cruz",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43449",
+            "township": "El Mothó",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43449",
+            "township": "La Pagua",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43449",
+            "township": "El Coyul",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43450",
+            "township": "San Sebastián",
+            "townshipType": "Pueblo",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43450",
+            "township": "El Tomate",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43450",
+            "township": "El Hongo",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43450",
+            "township": "San Antonio",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43450",
+            "township": "San Isidro",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43450",
+            "township": "La Sabana",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43450",
+            "township": "Llano Seco",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43450",
+            "township": "La Soledad",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43451",
+            "township": "Arroyo Seco",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43451",
+            "township": "El Copal",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43451",
+            "township": "Palo Gordo",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43451",
+            "township": "Nuevo",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43452",
+            "township": "El Templado",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43452",
+            "township": "Agua Linda (La Fábrica)",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43452",
+            "township": "Cerro de Buena Vista",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43453",
+            "township": "La Barranca (El Infiernillo)",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43453",
+            "township": "El Cojolite",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43453",
+            "township": "La Joya",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43453",
+            "township": "El Zenthe",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43453",
+            "township": "Agua Hedionda",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43453",
+            "township": "El Oratorio",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43453",
+            "township": "Piedra Larga",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43453",
+            "township": "El Piñal",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43453",
+            "township": "Agua Grande",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43453",
+            "township": "La Cueva",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43454",
+            "township": "El Nenjo",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43454",
+            "township": "El Xúchitl",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43455",
+            "township": "La Florida (La Canoa)",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43455",
+            "township": "La Loma de San Andrés",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43455",
+            "township": "San Andrés",
+            "townshipType": "Pueblo",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43455",
+            "township": "El Nanjo",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43455",
+            "township": "Del Canjoy",
+            "townshipType": "Barrio",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43455",
+            "township": "El Canjoy (Casas Quemadas)",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43455",
+            "township": "Milpa Larga",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43455",
+            "township": "El Caliche",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43456",
+            "township": "El Popotillo Chico",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43456",
+            "township": "El Popotillo Grande",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43459",
+            "township": "El Arco",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43459",
+            "township": "Cerro Pelón",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43459",
+            "township": "La Vereda",
+            "townshipType": "Ranchería",
+            "municipality": "San Bartolo Tutotepec",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        /*TENANGO DE DORIA*/
+        {
+            "cp": "43480",
+            "township": "Villa Tenango de Doria Centro",
+            "townshipType": "Colonia",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43483",
+            "township": "El Potrero",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43483",
+            "township": "San Nicolás",
+            "townshipType": "Pueblo",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43483",
+            "township": "El Damo",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43483",
+            "township": "El Mamay",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43483",
+            "township": "El Despi",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43483",
+            "township": "Santa Mónica",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43484",
+            "township": "El Dameni",
+            "townshipType": "Colonia",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43484",
+            "township": "La Loma",
+            "townshipType": "Colonia",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43485",
+            "township": "San José",
+            "townshipType": "Colonia",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43485",
+            "township": "El Porvenir",
+            "townshipType": "Colonia",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43486",
+            "township": "Agua Zarca",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43486",
+            "township": "Emiliano Zapata",
+            "townshipType": "Ejido",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43486",
+            "township": "Palo Gacho",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43486",
+            "township": "La Cruz de Tenango",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43486",
+            "township": "Linda Vista",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43487",
+            "township": "El Desdavi",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43487",
+            "township": "El Gosco",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43487",
+            "township": "El Zetoy",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43487",
+            "township": "El Madhó",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43488",
+            "township": "El Texme",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43488",
+            "township": "La Viejita",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43488",
+            "township": "El Cásiu",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43488",
+            "township": "La Reforma",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43488",
+            "township": "El Dexhuadá",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43488",
+            "township": "El Juanthe",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43488",
+            "township": "Las Juntas",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43488",
+            "township": "San Francisco Ixmiquilpan",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43490",
+            "township": "La Concepción (El Carrizal)",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43490",
+            "township": "San Francisco la Laguna",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43490",
+            "township": "San Pablo el Grande",
+            "townshipType": "Pueblo",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43490",
+            "township": "La Palizada",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43490",
+            "township": "El Lindero",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43491",
+            "township": "El Aguacate",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43493",
+            "township": "San José",
+            "townshipType": "Barrio",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43493",
+            "township": "El Progreso",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43493",
+            "township": "Los Planes de Santiago",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43493",
+            "township": "San Isidro la Laguna",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43494",
+            "township": "Cerro Grande (Veinte Barrancas)",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43494",
+            "township": "El Xajá",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43494",
+            "township": "Cerro Chiquito",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43494",
+            "township": "Huasquilla",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43494",
+            "township": "La Joya",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43494",
+            "township": "El Ñanjuay",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43495",
+            "township": "López Mateos (La Colonia)",
+            "townshipType": "Ejido",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43495",
+            "township": "Los Ahilares",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43495",
+            "township": "El Nanthe",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43495",
+            "township": "El Xindhó",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43495",
+            "township": "San José del Valle",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43495",
+            "township": "Ermita",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43496",
+            "township": "El Temapa",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43496",
+            "township": "Piedras Negras",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43496",
+            "township": "Peña Blanca",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43496",
+            "township": "El Dequeña",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43496",
+            "township": "Santa María Temaxcalapa",
+            "townshipType": "Pueblo",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43496",
+            "township": "El Bopo",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43496",
+            "township": "El Tramo",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43496",
+            "township": "El Xuthí",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43496",
+            "township": "El Dixoy",
+            "townshipType": "Ranchería",
+            "municipality": "Tenango de Doria",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+
+        /*Villas del Alamo*/
+
+        /*EPAZOYUCAN*/
+        {
+            "cp": "43580",
+            "township": "Epazoyucan Centro",
+            "townshipType": "Colonia",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43583",
+            "township": "Arriba",
+            "townshipType": "Colonia",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43583",
+            "township": "Las Palmas",
+            "townshipType": "Colonia",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43583",
+            "township": "Picacho",
+            "townshipType": "Colonia",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43583",
+            "township": "Álvaro Obregón",
+            "townshipType": "Colonia",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43584",
+            "township": "Abajo",
+            "townshipType": "Colonia",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43584",
+            "township": "Las Garitas",
+            "townshipType": "Colonia",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43584",
+            "township": "Morelos",
+            "townshipType": "Colonia",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43584",
+            "township": "20 de Noviembre",
+            "townshipType": "Colonia",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "43585",
+            "township": "Caja del Agua",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43585",
+            "township": "San José Chavarria",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43585",
+            "township": "San Juan Tizahuapan",
+            "townshipType": "Pueblo",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43585",
+            "township": "La Vega",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43586",
+            "township": "La Paloma",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43586",
+            "township": "Priedra Blanca",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43586",
+            "township": "San José Palacio",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43586",
+            "township": "San Francisco",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43586",
+            "township": "El Cascabel (La Coyotera)",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43586",
+            "township": "El Grillo",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43586",
+            "township": "Xochihuacán",
+            "townshipType": "Pueblo",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43586",
+            "township": "Jometitlán",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43586",
+            "township": "San Miguel Nopalapa",
+            "townshipType": "Pueblo",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43586",
+            "township": "San Vicente",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43586",
+            "township": "Cerro Alto",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43586",
+            "township": "Tepozotlán",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43587",
+            "township": "Xolostitla de Morelos (Xolostitla)",
+            "townshipType": "Ejido",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43587",
+            "township": "EL Guajolote",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43587",
+            "township": "San Juan Tizahuapan",
+            "townshipType": "Barrio",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43587",
+            "township": "El Galán",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43587",
+            "township": "Maguey Blanco",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43587",
+            "township": "Ciénega Larga",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43587",
+            "township": "Casacoalco",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43587",
+            "township": "El Manzano",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43587",
+            "township": "La Huerta Grande",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43590",
+            "township": "La Trinidad",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43590",
+            "township": "La Trinidad Segunda Sección",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43590",
+            "township": "Santa Mónica",
+            "townshipType": "Pueblo",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43590",
+            "township": "Cerro Alto",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43590",
+            "township": "El Salto",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43590",
+            "township": "Chapultepec",
+            "townshipType": "Barrio",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43590",
+            "township": "Guadalupe",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43592",
+            "township": "Juan Pacheco Aguirre",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43592",
+            "township": "El Pinillo",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43592",
+            "township": "Santa María las Mesas",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43592",
+            "township": "Escobillas",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43592",
+            "township": "Los Corrales",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43592",
+            "township": "El Palmar",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43593",
+            "township": "Piedras Negras",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43593",
+            "township": "San Pablo Guadalupe",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43593",
+            "township": "Tomás González Meneses",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43594",
+            "township": "Las Palomas",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43594",
+            "township": "San José el Tecolote",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43594",
+            "township": "El Mercillero",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43594",
+            "township": "Santa María el Arco",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43595",
+            "township": "La Presa (Casas Blacas)",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43595",
+            "township": "San Juan Tizahuapan",
+            "townshipType": "Ejido",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43595",
+            "township": "El Crucero de Nexpa",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43595",
+            "township": "Nexpan",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43595",
+            "township": "El Escobal",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43595",
+            "township": "Los Lirios",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43595",
+            "township": "El Nopalillo",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43595",
+            "township": "El Ocote",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43595",
+            "township": "San Cayetano (Los Lazcano)",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43595",
+            "township": "El Ocote Chico",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43595",
+            "township": "Las Palmitas",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "43595",
+            "township": "La Mesita",
+            "townshipType": "Ranchería",
+            "municipality": "Epazoyucan",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        /*MINERAL DE LA REFORMA*/
+        {
+            "cp": "42180",
+            "township": "Privada Apepelco",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42180",
+            "township": "Rancho Viejo",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42180",
+            "township": "Mineral I",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42180",
+            "township": "El Cerrito",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42180",
+            "township": "Los Morales",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42180",
+            "township": "María Isabel",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42180",
+            "township": "Mineral II",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42180",
+            "township": "Privadas Linda Vista",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42180",
+            "township": "San Camilo",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42180",
+            "township": "Pachuquilla",
+            "townshipType": "Pueblo",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42180",
+            "township": "Privada San Ángel",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42180",
+            "township": "El Campanario",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42180",
+            "township": "Minerales",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42180",
+            "township": "Los Cedros",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42181",
+            "township": "San Guillermo la Reforma",
+            "townshipType": "Pueblo",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42182",
+            "township": "Santiago Jaltepec",
+            "townshipType": "Pueblo",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42182",
+            "township": "San Carlos",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42182",
+            "township": "Guadalupe Minerva",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42182",
+            "township": "Residencial el Álamo",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42182",
+            "township": "CEUNI",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42182",
+            "township": "Calabazas",
+            "townshipType": "Pueblo",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42182",
+            "township": "El Huizachal",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42182",
+            "township": "Manual Ávila Camacho",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42182",
+            "township": "Privada de los Olivos",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42182",
+            "township": "Militar",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42182",
+            "township": "Dos Carlos",
+            "townshipType": "Pueblo",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42182",
+            "township": "Rio de la Soledad",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42182",
+            "township": "Pueblo Nuevo",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42183",
+            "township": "Las Peras",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42183",
+            "township": "Paseo de las Reynas I",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42183",
+            "township": "Privadas del Cobre",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42183",
+            "township": "Carboneras",
+            "townshipType": "Barrio",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Rinconadas del Portezuelo",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Taxistas",
+            "townshipType": "Unidad Habitacional",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "El Portezuelo",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Lomas del Portezuelo",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Segunda Sección del Portezuelo",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Álamo Rustico",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Rinconada del Álamo",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Privada del Álamo II",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Valle del Álamo",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Rinconada los Álamos",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "El Álamo",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "11 de Julio 2a Sección",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Villas del Álamo",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "11 de Jilio 3a Sección",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "FSTSE",
+            "townshipType": "Unidad Habitacional",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Unión Chacón",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Álamo IMSS",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Privadas la Hacienda",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Paseo de las Reynas V",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Carboneras",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Privada Camino Real",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Abundio Martínez",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "11 de Julio 1a Sección",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Paseo de las Reynas",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Campestre Villas del Álamo",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Privadas de San Javier",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Campestre Villas del Álamo (FOVISSSTE)",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "C.T.M",
+            "townshipType": "Unidad Habitacional",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Felipe Ángeles",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Real de Oriente",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42184",
+            "township": "Privada del Álamo",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "El Venado",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Rincones del Paraíso",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Arboledas de Pachuca",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Privada Virreyes",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Privada Bosques del Venado",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Privada Don Francisco",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Los Cedros",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "El Roble",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Bosques del Mineral",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Forjadores II",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Tulipanes",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Privada las Glorias",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Privada las Orquídeas",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "La Colonia",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Privadas del Sur",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Rinconadas de San Francisco el Venado",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Magisterio",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Rinconada de San Francisco",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Los Cipreses",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Valle Dorado",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Privada Don Jaime",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Las FLores",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Privada  Quinta Bonita",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Forjadores de Pachuca",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Los Tuzos",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "San José",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Real de San Francisco",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Tulipanes II",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Privada Don Manuel",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Parque los Encinos",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Rinconada del Venado II",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Rinconada del Venado I",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Privada Santa Patricia",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Privada del Parque",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Privada Don Javier",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Los Pinos",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42185",
+            "township": "Privada del Ángel",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Praderas de Virreyes",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "PRI Chacón",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "La Providencia Siglo XXI",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Colinas de Plata",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Jesús Ángeles Contreras",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Lomas de Nopalapa",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "San Francisco",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Privadas del Paraíso",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Nuevo Centro de Población Agrícola el Chacón",
+            "townshipType": "Pueblo",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "San Fernando Chacón",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "El Saucillo",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Rinconada de los Ángeles",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "José María Sánchex Ramírez",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Ex-hacienda de Chavarría",
+            "townshipType": "Ranchería",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Los Gemelos",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "San Fernando",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Privada del Bosque",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "CANACINTRA",
+            "townshipType": "Parque Industrial",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "San Cristóbal Chacón",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Unidad la Calera",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Francisco Villa",
+            "townshipType": "Ranchería",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Loma Escondida",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "La Loma",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Privadas de San Cristóbal",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "DINA-SEDENA Chacón",
+            "townshipType": "Unidad Habitacional",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Industrial la Paz",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Loma Bonita (Palma Mocha)",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Jorge Rojo Lugo",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "El Paraíso",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Villas Ave Real",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Pedregal de los Ángeles",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Villa Elena",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "San Luis II",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "El Saucillo",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "La Reforma",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Lomas del Chacón",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "San Luis",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "San Cristóbal",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Santa María la Calera",
+            "townshipType": "Pueblo",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Privada Santa Mónica",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Ejido Ampliación el Saucillo",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Las Aguilas",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "La Noria",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Parque Industrial Metropolitano",
+            "townshipType": "Zona Industrial",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "San Antonio Providencia",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Valle de Estrellas",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "SAHOP Chacón",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Las Palomas",
+            "townshipType": "Colonia",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Villa de San Cristóbal",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "Privada Don Pablo",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42186",
+            "township": "San Cayetano",
+            "townshipType": "Ranchería",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42186",
+            "township": "Paseos de Chavarría",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Urbano"
+        },
+        {
+            "cp": "42187",
+            "township": "Azoyatla de Ocampo",
+            "townshipType": "Pueblo",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42187",
+            "township": "La Pila",
+            "townshipType": "Ranchería",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42187",
+            "township": "Hacienda San Lunes",
+            "townshipType": "Ranchería",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42187",
+            "township": "El Velillo",
+            "townshipType": "Ranchería",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42187",
+            "township": "Amaque",
+            "townshipType": "Pueblo",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42187",
+            "township": "Hacienda Santa Gertrudis",
+            "townshipType": "Ranchería",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42188",
+            "township": "Las Torres",
+            "townshipType": "Ranchería",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42188",
+            "township": "San José Palma Gorda",
+            "townshipType": "Pueblo",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42188",
+            "township": "Hacienda Margarita",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42188",
+            "township": "El Popolito",
+            "townshipType": "Ranchería",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42188",
+            "township": "San Francisco",
+            "townshipType": "Ranchería",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42188",
+            "township": "Alvento Hábitat",
+            "townshipType": "Fraccionamiento",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42188",
+            "township": "San Isidro",
+            "townshipType": "Ranchería",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        },
+        {
+            "cp": "42188",
+            "township": "San Miguel la Higa",
+            "townshipType": "Pueblo",
+            "municipality": "Mineral de la Reforma",
+            "state": "Hidalgo",
+            "zone": "Rural"
+        }
+        /*Terminado*/
     ]
 }

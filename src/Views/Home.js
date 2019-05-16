@@ -1,36 +1,16 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 class Home extends Component {
     render() {
-        return ( <
-            div className = "container" >
-            <
-            div className = "row" >
-            <
-            div className = "col-6" >
-            <
-            h1 > Hola! < /h1> <
-            /div> <
-            div className = "col-8" >
-            <
-            h2 > Este es mi CV < /h2> <
-            /div> <
-            div className = "nav" >
-            <
-            button type = "button"
-            class = "btn btn-primary" > Datos Generales < /button> <
-            button type = "button"
-            class = "btn btn-secondary" > Datos Escolares < /button> <
-            button type = "button"
-            class = "btn btn-success" > Experiencia Laboral < /button> <
-            button type = "button"
-            class = "btn btn-danger" > Dangerr < /button> <
-            button type = "button"
-            class = "btn btn-warning" > Warning < /button> <
-            /div>
-
-            <
-            /div> <
-            /div>
+        return ( 
+            <div className="Container">
+            <div class="alert alert-info" role="alert">
+                 <center> <h1>Hola!! Este es mi Curriculum Vitae </h1></center>
+                <div className="row">
+                    <div className="col-6"></div>
+                    
+                </div>
+                </div>
+            </div>
 
         );
     }
