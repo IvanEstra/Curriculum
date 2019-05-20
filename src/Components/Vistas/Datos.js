@@ -1,10 +1,11 @@
 import React, {Component} from 'react';
+import '../../Css/EstiloForm.css';
 class Datos extends Component {
     render() {
         return (
       
                         
-
+                <div align="center">
                 <div className="card mb-6" style={{maxWidth: "800px"}}>
                     <div class="row no-gutters">
                         <div className="col-md-4">
@@ -14,7 +15,8 @@ class Datos extends Component {
                         <div className="card-body">
                             <h1 className="card-title">Carlos Iván Estrada López </h1>
                             <p>
-                                <b>Celular:</b> 7717224572 <b>Email:</b> Iv0499@hotmail.com
+                                <b>Celular:</b> 7717224572 <b>Hotmail:</b> Iv0499@hotmail.com <br/>
+                                <b>Gmail:</b>navicarlos991104@gmail.com 
                             </p>
                             <p>
                                 <b>Dirección:</b> San Agustín Metzquititlán <b> <b></b>Cp:</b> 43380
@@ -27,7 +29,7 @@ class Datos extends Component {
                     </div>
                 </div>
 
-            
+            </div>
        
         
        

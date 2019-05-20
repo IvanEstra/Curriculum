@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import '../../Css/Estilos.css';
+import '../../Css/EstiloForm.css';
 class Footer extends Component {
     render() {
         return ( 
