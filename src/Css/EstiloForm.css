@@ -82,6 +82,7 @@ body{
  }
 
  /* Formulario */
+ 
  .centered-form{
     margin-top: 60px;
     
@@ -92,7 +93,7 @@ body{
     
      }
      .panel-body{
-         background-color: #1bb5ff;
+         background-color: #57eee6;
      }
 
  

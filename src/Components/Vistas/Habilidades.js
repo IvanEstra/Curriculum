@@ -11,7 +11,7 @@ class Habilidades extends Component {
                 <strong>Confianza en los demás</strong>
                 </div>
                 <div className="alert alert-danger" role="alert">
-                <strong>Escucha activa</strong>
+                <strong>Escucho Activo</strong>
                 </div>
                 <div className="alert alert-danger" role="alert">
                <strong> Flexibilidad</strong>
