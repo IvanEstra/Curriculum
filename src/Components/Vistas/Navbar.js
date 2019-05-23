@@ -14,6 +14,7 @@ class Navbar extends Component {
                     <Link className="nav-item nav-link active bg-primary" id="nav-home-tab"  to="/Premios">Premios</Link>
                     <Link className="nav-item nav-link active bg-primary" id="nav-home-tab"  to="/Habilidades">Habilidades</Link>
                     <Link className="nav-item nav-link active bg-primary" id="nav-home-tab"  to="/Formulario">Formulario</Link>
+                    <Link className="nav-item nav-link active bg-primary" id="nav-home-tab"  to="/Peticiones">Peticiones</Link>
                 </div>
             </nav>
             

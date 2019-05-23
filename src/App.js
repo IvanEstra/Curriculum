@@ -8,6 +8,7 @@ import Formulario from './Components/Vistas/Formulario'
 import ExperienciaLab from './Components/Vistas/ExperienciaLab';
 import Premios from './Components/Vistas/Premios';
 import Habilidades from './Components/Vistas/Habilidades';
+import Peticiones from './Components/Vistas/Peticiones';
 
 
 
@@ -26,6 +27,7 @@ function App() {
        <Route  path="/Formulario" component={Formulario}/>
        <Route  path="/Premios" component={Premios}/>
        <Route  path="/Habilidades" component={Habilidades}/>
+       <Route  path="/Peticiones" component={Peticiones}/>
      </Switch>
     <Footer/>
    </Router>
